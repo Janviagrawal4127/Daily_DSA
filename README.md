@@ -6,6 +6,7 @@
 | [0001-two-sum](https://github.com/Janviagrawal4127/dyads/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Janviagrawal4127/dyads/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Janviagrawal4127/dyads/tree/master/0031-next-permutation) |
+| [0283-move-zeroes](https://github.com/Janviagrawal4127/dyads/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,4 +32,5 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Janviagrawal4127/dyads/tree/master/0031-next-permutation) |
+| [0283-move-zeroes](https://github.com/Janviagrawal4127/dyads/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
