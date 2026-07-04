@@ -35,4 +35,12 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Janviagrawal4127/dyads/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/Janviagrawal4127/dyads/tree/master/0283-move-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Janviagrawal4127/dyads/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Janviagrawal4127/dyads/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
