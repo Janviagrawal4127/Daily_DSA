@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/Janviagrawal4127/dyads/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Janviagrawal4127/dyads/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0283-move-zeroes](https://github.com/Janviagrawal4127/dyads/tree/master/0283-move-zeroes) |
+| [1301-number-of-paths-with-max-score](https://github.com/Janviagrawal4127/dyads/tree/master/1301-number-of-paths-with-max-score) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,4 +45,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Janviagrawal4127/dyads/tree/master/0021-merge-two-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Janviagrawal4127/dyads/tree/master/1301-number-of-paths-with-max-score) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Janviagrawal4127/dyads/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
